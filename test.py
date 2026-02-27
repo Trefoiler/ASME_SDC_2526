@@ -7,4 +7,3 @@ while True:
     led.toggle()
     print("blink")
     time.sleep(0.5)
-
