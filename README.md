@@ -3,3 +3,5 @@ How to upload code to pico
 - push "run" in the bottom left of your vs code window
 
 1. sup 
+
+rn its 7 motors, 2 servos
